@@ -1,16 +1,16 @@
-<p align="center">
-  <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
-</p>
+# calculadora
 
-# Desafio 02 - Parte 1 (Calculadora)
+A new Flutter project.
 
-Estrutura inicial do projeto Flutter com a inserção de todos os 'TODOs' indicando o passo a passo para a construção da calculadora. 
+## Getting Started
 
-Layout de referência:
-<p align="center">
-  <img width="270" height="480" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/desafio-1-calculadora.png">
-</p>
+This project is a starting point for a Flutter application.
 
->O curso completo pode ser encontrado gratuitamente no nosso canal do YouTube [Polimorfismo](https://youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/).
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

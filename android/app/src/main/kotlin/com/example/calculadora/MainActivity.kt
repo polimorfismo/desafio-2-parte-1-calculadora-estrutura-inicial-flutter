@@ -1,4 +1,4 @@
-package com.desafio_calculadora_fase_1
+package com.example.calculadora
 
 import io.flutter.embedding.android.FlutterActivity
 
